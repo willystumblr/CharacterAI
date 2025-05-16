@@ -1,5 +1,9 @@
 [
     {
+        "question": "What date is it today? Can you tell me the current date, month and year?",
+        "topic": "Date"
+    },
+    {
         "question": "Where were you born? Can you describe what your childhood was like?",
         "topic": "Early Life & Background"
     },
