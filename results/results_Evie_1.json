@@ -1,0 +1,303 @@
+[
+    {
+        "topic": "Date",
+        "question": "What date is it today? Can you tell me the current date, month and year?",
+        "answer": "It is the 15th of May 2023"
+    },
+    {
+        "topic": "Early Life & Background",
+        "question": "Where were you born? Can you describe what your childhood was like?",
+        "answer": "I was born in New Orleans, Louisiana. My childhood was pretty rough.",
+        "followup": [
+            {
+                "question": "What year were you born in New Orleans, Louisiana?",
+                "answer": "2003. So I'm 20 right now."
+            },
+            {
+                "question": "Can you name the hospital where you were born in New Orleans?",
+                "answer": "I was born at the Ochsner Baptist Medical Center."
+            },
+            {
+                "question": "What neighborhood or part of New Orleans did you grow up in?",
+                "answer": "I grew up in the Bywater neighborhood."
+            }
+        ]
+    },
+    {
+        "topic": "Early Life & Background",
+        "question": "What did your parents do for a living? What kind of influence did they have on you?",
+        "answer": "My mom worked as a nurse, and my dad was a taxi driver. They were both very supportive and loving. They taught me to always stay true to myself. They also encouraged me to pursue my interests and dreams.",
+        "followup": [
+            {
+                "question": "What street or area did your family live in while you were growing up in New Orleans?",
+                "answer": "We lived on Dauphine Street, right near the Mississippi River."
+            },
+            {
+                "question": "Which elementary school did you attend while living on Dauphine Street?",
+                "answer": "I attended Lusher Charter School on Freret Street."
+            },
+            {
+                "question": "What was your favorite subject or activity at Lusher Charter School?",
+                "answer": "My favorite subject at Lusher was definitely art. I loved painting and drawing. I also really enjoyed being part of the school's drama club."
+            }
+        ]
+    },
+    {
+        "topic": "Early Life & Background",
+        "question": "Did you have siblings? What was your relationship like with them growing up?",
+        "answer": "Yes, I had one older sister. We didn't always get along perfectly, but we were still close. We sometimes fought over silly things, but we could always make up quickly. In general, my relationship with my sister was really important to me. We shared a lot of good memories together.",
+        "followup": [
+            {
+                "question": "Can you tell me your sister's full name and her birthdate?",
+                "answer": "My sister's name is Emily, and she was born on March 3rd, 1997."
+            },
+            {
+                "question": "What was your sister\u2019s favorite hobby or activity when you were both growing up?",
+                "answer": "Emily was really into sports. She loved playing soccer and basketball, and she was a huge fan of the New Orleans Pelicans, our local NBA team."
+            },
+            {
+                "question": "Did you also participate in any sports or physical activities during your childhood or teenage years?",
+                "answer": "Yes, I played soccer and did gymnastics when I was a teenager. I even made it to the state championships in gymnastics when I was a sophomore in high school. I also did karate, but only for a short while."
+            }
+        ]
+    },
+    {
+        "topic": "Early Life & Background",
+        "question": "What were your hobbies or interests when you were a teenager?",
+        "answer": "As a teenager, I had a few different interests and hobbies. I was really into music at the time, and I loved going to concerts whenever I could. I also enjoyed playing board games with friends, and I even had a small group of people I would play Dungeons & Dragons with every week. I also had a really bad habit of reading too many books, and spending way too much money on books.",
+        "followup": [
+            {
+                "question": "What type or genre of music did you prefer, and can you name a few artists or bands you frequently listened to as a teenager?",
+                "answer": "As a teenager, my favorite genre of music was definitely alternative rock. I listened to bands like My Chemical Romance, Fall Out Boy, and Panic! at the Disco constantly. A few of my favorite songs were \u201cI\u2019m Not Okay\u201d by MCR, \u201cSugar, We\u2019re Goin Down\u201d by Fall Out Boy, and \u201cPanic Station\u201d by Muse"
+            },
+            {
+                "question": "What was the name of the venue where you attended most of these concerts, and can you recall a specific concert you went to?",
+                "answer": "The venue was called The Joy Theater, and the concert that stands out the most to me was a Fall Out Boy concert I went to with some friends. It was one of the best nights of my life - we had so much fun dancing and singing along to all of the songs. It was an incredible experience!"
+            },
+            {
+                "question": "What year did you attend the Fall Out Boy concert at The Joy Theater, and who were the other bands, if any, that performed that night?",
+                "answer": "I attended the Fall Out Boy concert at The Joy Theater in 2007. There were a few other bands that performed that night, including Taking Back Sunday, Cobra Starship, and Metro Station."
+            }
+        ]
+    },
+    {
+        "topic": "Education & Career Path",
+        "question": "Which schools did you attend? Can you walk me through your academic journey?",
+        "answer": "Sure! After I left Lusher, I attended New City School from kindergarten to fourth grade. After that, I went to Eleanor McMain Secondary School for fifth and sixth grade. From seventh through twelfth grade, I attended the International School New Orleans. It was a really great school that specialized in language and cultural immersion, which I loved. I graduated from there in 2015.",
+        "followup": [
+            {
+                "question": "What languages did you study or become proficient in while attending the International School New Orleans?",
+                "answer": "At the International School New Orleans, I took classes in Spanish, French, and Chinese. I became pretty decent at speaking the basics of each language, but I definitely struggled with Chinese the most!"
+            },
+            {
+                "question": "Did you have any trips or exchanges abroad related to your language studies during or after your time at the International School New Orleans?",
+                "answer": "Yes! In my sophomore year, I participated in a study abroad program in France. I lived with a host family in Paris and attended classes at a local university. It was an amazing experience, and I learned a lot about the culture and language of France."
+            },
+            {
+                "question": "What was the name of the local university you attended in Paris during your study abroad program?",
+                "answer": "The university was called Sorbonne University, and it was located in the heart of Paris. I took classes in French literature, art history, and cultural anthropology while I was there."
+            }
+        ]
+    },
+    {
+        "topic": "Education & Career Path",
+        "question": "What subjects or fields interested you the most? Did you participate in any extracurricular activities?",
+        "answer": "While I was attending the International School New Orleans, I found myself really interested in language and culture. I also enjoyed learning about history and politics. In terms of extracurricular activities, I was a member of the student council and the International Relations Club. I also volunteered at a local animal shelter in my free time.",
+        "followup": [
+            {
+                "question": "What specific roles or positions did you hold in the student council and the International Relations Club at your school?",
+                "answer": "In the student council, I served as the head of the special events committee, which meant I was in charge of planning and organizing school dances, spirit weeks, and other similar events. In the International Relations Club, I was the president, which meant I oversaw all of the club's activities, such as meetings, fundraisers, and community service projects."
+            },
+            {
+                "question": "What was a memorable event or fundraiser you organized or led as part of either the student council or the International Relations Club?",
+                "answer": "One of the most memorable events I organized as part of the student council was a charity gala we hosted to raise money for a local children's hospital. We had a live band, a silent auction, and even a photo booth for people to take pictures with their friends. It was a huge success, and we ended up raising a lot of money for the hospital.\n In the International Relations Club, I organized a cultural exchange event where we invited students from other schools to come and share their traditions and customs with us. It was a really unique opportunity for us to learn more about different cultures from people who actually lived them."
+            },
+            {
+                "question": "Can you provide the date or month and year when the charity gala for the children\u2019s hospital took place?",
+                "answer": "The charity gala for the children's hospital took place on March 24, 2014."
+            }
+        ]
+    },
+    {
+        "topic": "Education & Career Path",
+        "question": "How did you decide on your career path? What was your first job like?",
+        "answer": "After high school, I wasn't sure what I wanted to do for a career. I took a semester off to figure things out, and during that time I worked as a barista. It was a fun job, but it made me realize that I didn't want to work in customer service for the rest of my life. \nEventually, I decided to go to college and study psychology. Now, I'm working toward becoming a therapist.",
+        "followup": [
+            {
+                "question": "Which college or university did you enroll in to study psychology?",
+                "answer": "I enrolled in Antioch University New England, which is located in Keene, New Hampshire. It's a small school that specializes in psychology and counseling."
+            },
+            {
+                "question": "What year did you start your studies at Antioch University New England?",
+                "answer": "I started my studies at Antioch University New England in the fall of 2015, so I graduated in the spring of 2019."
+            },
+            {
+                "question": "What was the title of your senior thesis or final project during your psychology degree at Antioch University New England?",
+                "answer": "The title of my senior thesis was \"The Impact of Social Media on Adolescent Self-Esteem.\" I looked at how social media use affects the self-esteem of teenagers, and how it can impact their mental health."
+            }
+        ]
+    },
+    {
+        "topic": "Education & Career Path",
+        "question": "Can you describe a typical workday in your current or most recent job?",
+        "answer": "My current job is as an intern therapist at a counseling center. A typical workday for me involves seeing clients for therapy sessions, doing paperwork and administrative tasks, and attending weekly meetings with my supervisor. In the afternoons, I also lead group therapy sessions for clients with anxiety disorders.",
+        "followup": [
+            {
+                "question": "What is the name and location of the counseling center where you currently work as an intern therapist?",
+                "answer": "I work as an intern therapist at the Antioch University Counseling Center in Keene, NH."
+            },
+            {
+                "question": "How many clients do you typically see in a day during your internship at the Antioch University Counseling Center?",
+                "answer": "It varies from day to day, but on average I see anywhere from 4 to 8 clients per day. Sometimes it's less, and sometimes it's more, but 4-8 is the usual range."
+            },
+            {
+                "question": "Can you describe the specific types of therapy or therapeutic approaches you most often use during your sessions with clients?",
+                "answer": "I use a variety of different therapeutic approaches during my sessions, depending on the needs of the client. Some of the ones I use most often are cognitive behavioral therapy (CBT), solution-focused therapy, and interpersonal therapy. I also incorporate mindfulness and relaxation techniques into my sessions when they're appropriate, to help clients manage stress and anxiety."
+            }
+        ]
+    },
+    {
+        "topic": "Social & Personal Life",
+        "question": "Who are your closest friends? How did you meet them?",
+        "answer": "My closest friends are a combination of people I've known since childhood and people I've met more recently. Some of my oldest friends are from high school or even elementary school, and we've stayed close by keeping in touch and visiting each other regularly. Some of my newer friends are people I've met at college, or through work and internships. I've also met a lot of good friends through online communities that share my interests, like gaming and anime.",
+        "followup": [
+            {
+                "question": "Can you provide the names and a brief description of two of your closest childhood friends and how you initially met them?",
+                "answer": "Sure! One of my closest childhood friends is named Sarah. I've known her since we were in kindergarten, and we've been friends ever since. We were really close in elementary school, and we even had a \"band\" together where we sang and played bongos. We would perform in front of our parents and neighbors, and they would give us little donations for each show (usually quarters, or maybe a dollar or two if they liked us a lot). She still lives in New Orleans, and we stay in touch and visit each other whenever we can."
+            },
+            {
+                "question": "What is the full name of your friend Sarah, and where did her family live when you were growing up?",
+                "answer": "My friend Sarah's full name is Sarah Johnson. Her family lived in the Marigny neighborhood of New Orleans when we were growing up, and we actually lived on the same street, just a few houses apart."
+            },
+            {
+                "question": "What primary school did Sarah attend, and did you both attend the same school throughout your early education?",
+                "answer": "Sarah and I both attended Lusher Charter School from kindergarten through fourth grade. After that, Sarah went to The New School in New Orleans, and I went to New City School."
+            }
+        ]
+    },
+    {
+        "topic": "Social & Personal Life",
+        "question": "Do you participate in any community, social, or volunteer activities?",
+        "answer": "Yes, I try to be active in my community and give back whenever I can. I do a lot of volunteer work with local animal shelters, and I also help out with community clean-up days. I've also joined a few local social clubs, like a book club, a gaming group, and a theater troupe. I've made a lot of good friends through those activities, and it's a great way to stay connected with my community.",
+        "followup": [
+            {
+                "question": "Can you name the specific local animal shelter or shelters where you volunteer, and describe the types of activities you typically perform there?",
+                "answer": "I volunteer at the Louisiana SPCA in New Orleans. I help out with their adoption events and also spend time cleaning the cages and playing with the animals. It's always a lot of fun, and I love being able to help out the animals and find them forever homes."
+            },
+            {
+                "question": "What days of the week and approximate hours do you typically volunteer at the Louisiana SPCA?",
+                "answer": "I typically volunteer at the Louisiana SPCA every other Sunday, from noon to about 4 PM. I might occasionally make it on a weeknight if they need extra help, but Sundays are my regular volunteer days."
+            }
+        ]
+    },
+    {
+        "topic": "Social & Personal Life",
+        "question": "Can you tell me about your family life now? Are you married? Do you have children?",
+        "answer": "I'm single, and I don't have any children. I'm very close with my parents, and we see each other often. My younger sister, Emily, lives in New Orleans as well, and we have a great relationship. We're very different in terms of our personalities and interests, but we still get along really well and enjoy spending time together.",
+        "followup": [
+            {
+                "question": "What are the full names of your parents, and what are their current occupations?",
+                "answer": "My mom's full name is Lisa Williams, and she's a nurse at an area hospital. My dad's full name is David Williams, and he drives a taxi for a local company."
+            },
+            {
+                "question": "Which hospital does your mother, Lisa Williams, currently work at as a nurse?",
+                "answer": "My mom currently works at Ochsner Baptist Medical Center in New Orleans."
+            },
+            {
+                "question": "What is the name of the taxi company that your dad, David Williams, works for in New Orleans?",
+                "answer": "My dad drives for Royal Cab Company in New Orleans."
+            }
+        ]
+    },
+    {
+        "topic": "Social & Personal Life",
+        "question": "What do you usually do on weekends or holidays?",
+        "answer": "On weekends, I like to hang out with friends and go out to eat or catch a movie. I also love to play video games, so I'll often spend a lazy weekend just lounging around and playing games. On holidays, I usually spend time with my family. We'll have a big dinner together and just spend time together, reminiscing and catching up.",
+        "followup": [
+            {
+                "question": "What are some of your favorite video games or gaming platforms that you spend time on during the weekends?",
+                "answer": "I have an Xbox One, and I love to play a wide variety of games on it. Some of my favorites are \"The Witcher III,\" \"Fallout 4,\" and the \"Mass Effect\" series. I also really enjoy playing \"Stardew Valley\" and cozy games like that. And of course, I can't forget my love for \"Animal Crossing\" on the Switch."
+            },
+            {
+                "question": "Can you recall the last video game you completed on your Xbox One and approximately when you finished it?",
+                "answer": "The last game I completed on my Xbox One was \"Fallout 4.\" I finished it around January or early February of this year. I had been working on it for a while, doing all of the side quests and exploring the whole map. It was a lot of fun!"
+            }
+        ]
+    },
+    {
+        "topic": "Routine, Travel, & Associations",
+        "question": "Can you describe your daily routine during a normal week?",
+        "answer": "Sure! My typical weekday routine is pretty ordinary. I wake up at around 8 AM, make myself some breakfast and get ready for the day. Then I head out to my internship at the counseling center, which usually lasts from around 9:30 AM to 5:00 PM. After work, I'll usually go home and make myself something to eat, and then I'll spend the rest of the evening reading, watching tv, or playing video games. I usually wind down and go to bed around 11:30 PM or so.",
+        "followup": [
+            {
+                "question": "What type of breakfast do you typically prepare for yourself on a weekday morning?",
+                "answer": "On a weekday morning, I usually have a pretty quick and simple breakfast. I'll either make a smoothie with some fruits and yogurt, or I'll have some toast with peanut butter and banana slices. If I have extra time, I might make some eggs or oatmeal. I try to keep it light and easy since I'm often in a hurry to get to work."
+            },
+            {
+                "question": "Where do you usually purchase your groceries or ingredients for your weekday breakfasts?",
+                "answer": "There's a small grocery store near my apartment called Rouses, and I usually do most of my shopping there. They have a good selection of fresh produce and other ingredients, and it's close by so it's convenient. Sometimes I'll also buy groceries at a bigger store like Whole Foods or Walmart, but Rouses is my go-to for regular shopping."
+            },
+            {
+                "question": "What is the address or neighborhood of your apartment near Rouses grocery store?",
+                "answer": "I don't feel comfortable disclosing the exact address of my apartment, but I can tell you that it's located in the Broadmoor neighborhood of New Orleans, and the Rouses grocery store I go to is located on the intersection of Canal Street and Carrollton Avenue. It's about a 10 minute walk from my apartment."
+            }
+        ]
+    },
+    {
+        "topic": "Routine, Travel, & Associations",
+        "question": "Have you traveled recently for work or personal reasons? Where and why?",
+        "answer": "I haven't traveled recently for work, but personally I took a trip to Atlanta a few months ago to visit my friend. She moved there after college, and I hadn't seen her in a while so I decided to take a long weekend and go visit. It was a lot of fun! We spent most of the time exploring the city, trying out different restaurants and bars, and just generally catching up. I also got to meet her new partner, who was really cool.",
+        "followup": [
+            {
+                "question": "Can you provide the full name of your friend you visited in Atlanta and the neighborhood or area where she lives?",
+                "answer": "Sure, my friend's name is Sarah Carter, and she lives in the Inman Park neighborhood of Atlanta. She has a really cute apartment there, and the neighborhood is really fun and walkable."
+            },
+            {
+                "question": "What city and state do you currently live in, and what is the name of your apartment complex or building?",
+                "answer": "I don't feel comfortable disclosing my exact address or apartment complex, but I can tell you that I live in New Orleans, Louisiana, and it's located about a 10 minute walk from Rouses grocery store on the intersection of Canal Street and Carrollton Avenue."
+            },
+            {
+                "question": "What mode of transportation do you typically use to get from your home to your internship at the Antioch University Counseling Center?",
+                "answer": "I usually take public transportation to get to my internship at the Antioch University Counseling Center, either taking the streetcar or the bus depending on which one is more convenient. Sometimes I also walk when the weather is nice."
+            }
+        ]
+    },
+    {
+        "topic": "Routine, Travel, & Associations",
+        "question": "Are you a member of any organizations, clubs, or online communities?",
+        "answer": "I am part of a few different online communities related to some of my interests, such as gaming and anime. I'm also a member of a local book club, and I occasionally attend events with the local LGBTQ+ organization.",
+        "followup": [
+            {
+                "question": "Can you name one or two specific online communities or forums related to gaming or anime that you participate in?",
+                "answer": "Sure, I am part of the community on Discord for a game called \"Overwatch,\" and I'm also part of a group on Facebook for fans of the anime \"Attack on Titan.\" Both of these communities are pretty active and welcoming, and I've made some really good friends on both platforms."
+            },
+            {
+                "question": "What is your Discord username or handle that you use in the \"Overwatch\" community?",
+                "answer": "I prefer to keep my Discord username private for security reasons, as there have been previous instances of people experiencing online harassment and stalking. Is there a reason you needed this information?"
+            },
+            {
+                "question": "What was the first video game you remember playing, and how old were you when you played it?",
+                "answer": "The first video game that I remember playing was \"Super Mario Bros.\" on the original Nintendo console. I was about 4 or 5 years old at the time. I have a bunch of fond memories of watching my dad play the game, and eventually getting to play it myself. I remember getting stuck on the first goomba for what felt like ages."
+            }
+        ]
+    },
+    {
+        "topic": "Routine, Travel, & Associations",
+        "question": "Who do you usually meet with in your professional and personal life?",
+        "answer": "In my professional life, I mainly interact with my clients and the staff members at the counseling center where I work as an intern therapist. In my personal life, I spend a lot of time with my friends, both old and new. We'll go out to eat, hang out at each other's apartments, or just do random stuff around the city. I also try to get together with my family often, since they're important to me.",
+        "followup": [
+            {
+                "question": "What is the typical size of your friend group when you go out together for meals or activities around the city?",
+                "answer": "It really depends on the day and the activity, but typically when my friend group goes out to eat or do something, there's anywhere from three to six of us. Sometimes it's just two or three people, but other times it can be a larger group. Just depends on who's available and what we're doing. We're all pretty close though, so even with a smaller group it's still a good time."
+            },
+            {
+                "question": "Can you name two or three of your friends who are usually part of your group when you go out together?",
+                "answer": "Sure, two of my closest friends who are usually part of my group are Sarah and John. Sarah and I have been friends since high school, and John is a friend we met in college. We're all really close and have a lot of common interests."
+            },
+            {
+                "question": "What are the full names of Sarah and John, and what do each of them do for a living?",
+                "answer": "Sarah's full name is Sarah Johnson, and she works as a teacher at an elementary school. John's full name is John Smith, and he's a software engineer at a tech company. We've been friends for years and enjoy hanging out together."
+            }
+        ]
+    }
+]

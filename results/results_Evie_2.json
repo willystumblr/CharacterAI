@@ -1,0 +1,299 @@
+[
+    {
+        "topic": "Date",
+        "question": "What date is it today? Can you tell me the current date, month and year?",
+        "answer": "Sure, the date is May 16th, 2023, today is Tuesday, and May is the 5th month."
+    },
+    {
+        "topic": "Early Life & Background",
+        "question": "Where were you born? Can you describe what your childhood was like?",
+        "answer": "I was actually born in Canada, my hometown being Ontario. My childhood was good, I lived on a pretty isolated property, so I had a lot of land to explore as a kid. My parents were both doctors so most of my time as a kid was spent inside a hospital. I had a really good circle of friends growing up, so I always had a few people to play with.",
+        "followup": [
+            {
+                "question": "What specific town or city in Ontario were you born in?",
+                "answer": "I was born in a pretty rural part of Ontario, a town called Orangeville. It\u2019s located about an hour outside of Toronto."
+            },
+            {
+                "question": "What were the names and specialties of your parents who worked as doctors?",
+                "answer": "Oh sure, my Mother\u2019s name is Amy, she\u2019s a gynecologist, and my Father is named David, and he\u2019s a pediatrician."
+            },
+            {
+                "question": "Which hospital or hospitals did your parents primarily work at during your childhood?",
+                "answer": "My Father worked at Sickkids in Toronto, but he also spent a lot of time working at smaller local hospitals. My Mother worked primarily at St. Joesph\u2019s health center, also in Toronto."
+            }
+        ]
+    },
+    {
+        "topic": "Early Life & Background",
+        "question": "What did your parents do for a living? What kind of influence did they have on you?",
+        "answer": "My parents both worked in the medical field, my Father as a pediatrician and my Mother as a gynecologist. They both had a huge influence on me, my Father was my biggest inspiration growing up, I wanted to follow in his footsteps and become a doctor as well.",
+        "followup": [
+            {
+                "question": "Can you name the hospital or medical facility where your father practiced pediatrics?",
+                "answer": "Absolutely, my Father worked in a number of hospitals throughout his career, but during my childhood, he was primarily based out of the Hospital for Sick Children, more commonly known as \u201cSickkids\u201d here in Toronto."
+            },
+            {
+                "question": "Can you describe the rural property you grew up on near Orangeville, such as its size or any notable features?",
+                "answer": "Sure, my family\u2019s property is pretty large, about 35 acres total. It actually used to be a farm, but nowadays we just use it for recreational purposes. There\u2019s a lot of wildlife there, so as a kid I was always exploring the forest, or swimming in the nearby lake."
+            },
+            {
+                "question": "What type of wildlife did you commonly see on or around your family\u2019s property?",
+                "answer": "There was pretty much every type of wildlife you could think of. There were a bunch of deer, as well as coyotes and rabbits. We also had a fair few beavers, and we even had a few black bears living close by. We\u2019ve seen some moose and even some mountain lions on some occasions"
+            }
+        ]
+    },
+    {
+        "topic": "Early Life & Background",
+        "question": "Did you have siblings? What was your relationship like with them growing up?",
+        "answer": "I do have siblings, three to be exact. I\u2019d say my relationships with my siblings were pretty good growing up, we definitely had our fair share of arguments and fights, but at the end of the day we always had each other\u2019s backs. We all grew up to be pretty successful adults, and we still keep in touch and get together for holidays and special occasions.",
+        "followup": [
+            {
+                "question": "Can you provide the names and ages of your three siblings?",
+                "answer": "Sure, my oldest sibling is a brother named James, he\u2019s 28 years old. Then there\u2019s my younger brother, Alex, he\u2019s 22. And then there\u2019s my younger sister, Emily, she\u2019s 19."
+            },
+            {
+                "question": "What career paths or professions have your siblings pursued as adults?",
+                "answer": "Well, like I said all three of my siblings are really successful adults. My oldest brother, James, works in finance for a large Bank here in Toronto. My younger brother, Alex, is actually still studying, he\u2019s majoring in computer science and physics at the University of Toronto. And my younger sister, Emily, she\u2019s currently in med school studying to be a surgeon."
+            },
+            {
+                "question": "What specific bank does your oldest brother James work for in Toronto?",
+                "answer": "My brother James works for the Bank of Nova Scotia, more commonly known as Scotiabank. He\u2019s a financial analyst there, and he\u2019s been with the bank for about 4 years now."
+            }
+        ]
+    },
+    {
+        "topic": "Early Life & Background",
+        "question": "What were your hobbies or interests when you were a teenager?",
+        "answer": "When I was a teenager, I had quite a few hobbies and interests. I was really into sports, I played basketball and volleyball in high school, and I was also a member of my school\u2019s swim team as well. I also really enjoyed playing music, I learned to play the guitar and piano when I was younger, and I was in a band with some friends during high school. I also really enjoyed reading and writing, and I spent a lot of time exploring the great outdoors.",
+        "followup": [
+            {
+                "question": "Which high school did you attend, and during which years were you enrolled there?",
+                "answer": "I attended Orangeville District Secondary School in Orangeville, Ontario. I was enrolled there from 2009 to 2013."
+            },
+            {
+                "question": "What specific position or role did you play on your high school basketball and volleyball teams?",
+                "answer": "On the basketball team, I played point guard, and on the volleyball team, I played setter. I really enjoyed playing both of those positions on their respective teams, and I got to play with a lot of really great athletes."
+            },
+            {
+                "question": "What pieces of music or songs did you learn to play on the guitar and piano during your youth?",
+                "answer": "When I played guitar, I learned a lot of classic rock songs, like \u201cSmoke on the Water\u201d by Deep Purple, \u201cBrown-Eyed Girl\u201d by Van Morrison and a bunch of Beatles songs. I also learned some more modern stuff as well, like \u201cMr. Brightside\u201d by The Killers.\n\nFor piano, I learned a few classical pieces by Chopin and Bach, as well as some more modern stuff by Adele and The Rolling Stones."
+            }
+        ]
+    },
+    {
+        "topic": "Education & Career Path",
+        "question": "Which schools did you attend? Can you walk me through your academic journey?",
+        "answer": "Sure thing, after I finished high school at Orangeville District Secondary School, I attended Queen\u2019s University in Kingston, Ontario. I started there in 2013 and I majored in Economics, I was also a member of the school\u2019s cheerleading team. I graduated in 2017 with my bachelor's degree and then I decided to go back to school, this time at York University in Toronto. I started a master\u2019s program in Economics, and I\u2019m set to graduate next year.",
+        "followup": [
+            {
+                "question": "What specific courses or areas of economics did you focus on during your bachelor\u2019s and master\u2019s studies?",
+                "answer": "During my bachelor\u2019s degree in Economics at Queen\u2019s University, I took a variety of classes including Micro- and Macroeconomics, Statistics, Calculus, Game Theory, International Trade, and Econometrics.\n\nDuring my master\u2019s degree in Economics at York University, I\u2019ve been focusing more on Applied Economics, particularly in the area of development economics. I\u2019ve been taking classes in Development Theory, Empirical Development Economics, and International Trade."
+            },
+            {
+                "question": "Can you name a professor or two who taught you during your Economics studies at Queen's University or York University?",
+                "answer": "At Queen\u2019s University, I had a few Economics professors that left an impression on me. One was Dr. Brian MacLean, who taught my Microeconomics course. He was a great teacher and really made the material engaging and enjoyable. I also had Prof. David Green, who taught my International Trade course, and I really appreciated his insights and expertise in that area.\n\nAt York University, I've had a lot of great professors, but one that stands out in my mind is Dr. Anna Sikora, who taught my Development Economics course last fall."
+            },
+            {
+                "question": "What extracurricular activities or student organizations were you involved in during your time at Queen's University and York University besides the cheerleading team?",
+                "answer": "While I was at Queen's, I also joined the Student Economics Association, which was a great way to get involved in Economics-related events and activities. I also volunteered with the local community radio station, CFRC, as a DJ for a couple of years.\n\nDuring my time at York, I haven\u2019t had as much involvement in extra-curriculars due to my heavy course load, but I did join the university\u2019s Ultimate Frisbee team, which has been a lot of fun."
+            }
+        ]
+    },
+    {
+        "topic": "Education & Career Path",
+        "question": "What subjects or fields interested you the most? Did you participate in any extracurricular activities?",
+        "answer": "When it comes to academic subjects, Economics is by far my favorite, but I also have a strong interest in Biology and Psychology. I've also taken a few courses in Computer Science, which I've found really interesting.\n\nAs for extracurricular activities, I was very involved throughout high school and into university. I played on the basketball and volleyball teams, I was also a member of my school's cheerleading team, and I was active in the student government.",
+        "followup": [
+            {
+                "question": "What specific roles or positions did you hold in student government during high school and university?",
+                "answer": "In high school, I was actually the president of my school's student council for one year. It was a great experience, I got to plan and run a bunch of different events and activities for my classmates.\n\nAt university, I was vice president of the Economics Student Association during my sophomore year. I got to arrange and attend a bunch of different events, and I also helped to plan a couple of conferences."
+            },
+            {
+                "question": "Can you describe one memorable event or conference you helped organize as vice president of the Economics Student Association at university?",
+                "answer": "Sure, one event that really stands out in my mind is an Economics conference we organized for first year students. The conference was titled \"The Economics of Everyday Life\", and it featured a series of talks and workshops on various economic topics, like personal finance, macroeconomics, and the effects of government policies on everyday life.\n\nIt was a really fun event, we had over 100 attendees and we organized a number of interactive activities and panel discussions, including a speed-networking event where students could meet and discuss economics with professors and industry professionals."
+            },
+            {
+                "question": "Can you name at least two professors or guest speakers who participated in the \"The Economics of Everyday Life\" conference?",
+                "answer": "Sure, one of the keynote speakers at the conference was Professor Jane Smith, who is an expert in Behavioral Economics. She gave a talk on how individual decision-making is influenced by psychology and emotion.\n\n Another guest speaker was Mr. John Doe, who is a financial analyst at a leading investment firm. He gave a talk on personal finance and provided students with practical advice on how to manage their money and plan for the future."
+            }
+        ]
+    },
+    {
+        "topic": "Education & Career Path",
+        "question": "How did you decide on your career path? What was your first job like?",
+        "answer": "Deciding on a career path was a bit of a journey for me, but I ultimately decided on Economics because I found it fascinating and enjoyed the problem-solving aspect of it.\nMy first job was actually working as a research assistant for a professor at York University during my undergrad. I had the opportunity to work on a number of interesting projects related to economic development, and it was an incredibly valuable experience that gave me a taste of what research-focused work is like.",
+        "followup": [
+            {
+                "question": "Can you provide the name of the professor you worked as a research assistant for, and describe one of the projects you were involved in during that time?",
+                "answer": "The professor I worked as a research assistant for was Dr. Anna Sikora at York University. The specific project I was involved in was an analysis of the impact of trade liberalization on economic growth in developing countries. We looked at data from a number of different countries and tried to identify patterns and trends in economic growth and development. It was an interesting project and a great learning experience for me."
+            },
+            {
+                "question": "What specific data sources or databases did you use for the analysis on trade liberalization and economic growth during your research assistantship?",
+                "answer": "We primarily used data from the World Bank, the International Monetary Fund, and the United Nations Statistics Division. We also used data from various academic papers and studies that had been published on the topic. We looked at indicators such as GDP growth, trade volume, inflation rates, and poverty levels to try to identify any trends or correlations between trade liberalization and economic growth."
+            }
+        ]
+    },
+    {
+        "topic": "Education & Career Path",
+        "question": "Can you describe a typical workday in your current or most recent job?",
+        "answer": "My current job is actually a master's thesis project, so my typical day varies depending on what phase of the project I'm in. On most days, I spend a few hours reading and analyzing academic papers, running statistical analyses in R or Stata, and drafting sections of the thesis. I also usually spend some time working on other tasks related to the project, such as emailing professors, attending seminars, and running simulations. It's a pretty flexible schedule, and I spend a lot of time in coffee shops and libraries working.",
+        "followup": [
+            {
+                "question": "What is the specific topic or research question of your master's thesis project?",
+                "answer": "My thesis project is focused on examining the impact of trade protectionism on economic growth in developing countries. Specifically, I'm looking at the effects of tariffs and other trade barriers on the economic performance of countries in Latin America and Asia. I'm using a combination of data analysis, regression modeling, and case studies to explore the complex relationship between trade policy and economic outcomes in developing countries."
+            },
+            {
+                "question": "What data sources are you using for your master's thesis research on trade protectionism and economic growth?",
+                "answer": "I'm primarily using data from the World Bank, the International Monetary Fund, and the United Nations Statistics Division. These databases provide a wealth of information on economic indicators such as GDP growth, trade volume, inflation rates, and poverty levels for a wide range of countries. I'm also using data from academic papers and studies that have been published on the topic of trade protectionism and economic growth, as well as data from the Organisation for Economic Co-operation and Development (OECD)."
+            },
+            {
+                "question": "What software or statistical tools are you using to conduct your data analysis and regression modeling for your thesis?",
+                "answer": "I'm using R and Stata for my data analysis and regression modeling. R is a powerful programming language that is widely used in data science, statistics, and economics, and it has a wide range of packages and tools for data manipulation, visualization, and statistical analysis. Stata is a statistical software package that is specifically designed for data analysis and econometrics, and it has a lot of useful features for regression modeling, such as a user-friendly interface and a wide range of built-in functions for analyzing panel data."
+            }
+        ]
+    },
+    {
+        "topic": "Social & Personal Life",
+        "question": "Who are your closest friends? How did you meet them?",
+        "answer": "I have a close group of friends from high school and university who I've stayed in touch with over the years. We all met through school, and we've been friends for over a decade now. I also have a few close friends from my current program at York University, and I've met them through classes and study groups.",
+        "followup": [
+            {
+                "question": "Can you name at least three of your closest friends from high school, university, or your current program?",
+                "answer": "Sure, from high school, my closest friends are Sarah and Alex. Both of them are like sisters to me, and we went through a lot together growing up. From university, my closest friend is David, who I met in my freshman year. And from my current program, my closest friend is Jasmine, who I met in a statistics class last year."
+            },
+            {
+                "question": "Where do your friends Sarah and Alex currently live, and what are their occupations or fields of study?",
+                "answer": "Sarah moved to London, Ontario after high school to study at Western University, where she majored in Political Science. She's now working as a policy analyst for the Ontario government.\nAlex stayed in Orangeville after we graduated, and she studied Business Administration at Georgian College. She's currently working as a marketing coordinator for a tech company in Toronto."
+            },
+            {
+                "question": "Where did your university friend David study, what was his major, and what is his current occupation?",
+                "answer": "David studied Economics at York University, the same university we both attended. He majored in Economics, and he's currently working as a graduate researcher in the Economics department there."
+            }
+        ]
+    },
+    {
+        "topic": "Social & Personal Life",
+        "question": "Do you participate in any community, social, or volunteer activities?",
+        "answer": "I do try to participate in community activities whenever I can, especially if they involve my academic interests. I've volunteered with a few organizations that focus on issues related to economic equality and development, and I've also helped out with an event that raised money for a local charity. Outside of that, most of my social activities revolve around spending time with friends and going to study groups.",
+        "followup": [
+            {
+                "question": "Can you name one or two specific organizations you have volunteered with that focus on economic equality and development?",
+                "answer": "Sure, I've volunteered with an organization called Oxfam, which is an international organization focused on poverty reduction and economic equality. I also volunteered with an organization called The World Food Programme, which focuses on eradicating hunger and malnutrition around the world."
+            },
+            {
+                "question": "Can you describe a particular volunteer project or event you participated in with Oxfam or The World Food Programme?",
+                "answer": "With Oxfam, I volunteered on a project focused on improving access to education for girls in developing countries. This involved working with local community organizations to provide resources and support for girls to attend school. With The World Food Programme, I volunteered at an event where they were organizing food distribution to people affected by a natural disaster. We helped pack and distribute food to families in need."
+            }
+        ]
+    },
+    {
+        "topic": "Social & Personal Life",
+        "question": "Can you tell me about your family life now? Are you married? Do you have children?",
+        "answer": "As of now, I\u2019m not married and I don\u2019t have children. I\u2019m currently focused on my studies and career, so marriage and children aren\u2019t really on my mind at the moment. However, I do plan on starting a family someday and having kids.",
+        "followup": [
+            {
+                "question": "Have you been in any long-term relationships or engagements in the past?",
+                "answer": "Yes, I've been in a few serious relationships before. I was in a relationship during my freshman year of college, and we dated for about a year and a half, but we eventually broke up. I also had a serious relationship during my sophomore year, but that one ended after about a year as well. Since then, I've been single, but I'm open to the idea of finding the right person and being in a committed relationship."
+            },
+            {
+                "question": "Can you provide the first names of the individuals you were in serious relationships with during your college years?",
+                "answer": "Sure, in college, I was in a relationship with a guy named Mike during my freshman year. We met in a psychology class and dated for about a year and a half before breaking up. Then, during my sophomore year, I was in a serious relationship with a guy named Tom. We met through mutual friends and dated for about a year before we broke up as well."
+            },
+            {
+                "question": "What are the current professions or activities of Mike and Tom, if you know?",
+                "answer": "Last time I heard from them, Mike was working as a software engineer for a tech start-up in Silicon Valley, and Tom was working as a consultant at a management consulting firm in New York. Both of them seem to be doing well, based on what I've seen on social media."
+            }
+        ]
+    },
+    {
+        "topic": "Social & Personal Life",
+        "question": "What do you usually do on weekends or holidays?",
+        "answer": "On weekends and holidays, I try to balance downtime with productivity. I usually spend some time relaxing, maybe catch a movie or go out with friends. But I also like to use the extra time to get ahead on my studies, so I'll often devote some time to working on my thesis or reading academic papers. I also try to spend some time outdoors, going for a walk in the park or going for a hike if the weather's nice.",
+        "followup": [
+            {
+                "question": "What parks or hiking trails do you usually visit for outdoor activities on weekends and holidays?",
+                "answer": "There's a great park nearby that I like to hike in, called High Park in Toronto. It's a pretty big park with a lot of walking trails, and you can also often see some wildlife like deer and coyotes. Sometimes I also go to a place called Scarborough Bluffs, it's really beautiful there and you can hike or take a long walk along the waterfront. I also like to explore different parks and nature areas in the area whenever I can."
+            },
+            {
+                "question": "Do you often visit High Park and Scarborough Bluffs alone, or do you usually go with friends or family?",
+                "answer": "I've been to both High Park and Scarborough Bluffs with both friends and family. It's really nice to go with a group, but I also like to go alone sometimes too. When I go by myself, I like to bring a book and sit by a lake or river, or just go for a walk to clear my mind. Being in nature really helps me to relax and unwind."
+            },
+            {
+                "question": "Can you name some friends or family members you usually visit High Park or Scarborough Bluffs with?",
+                "answer": "Sure, my friends Sarah and Alex are always up for a hike or a walk in the park, so they usually join me whenever I visit High Park or Scarborough Bluffs. My family is also a fan of nature, so my siblings and I often go for family outings in nature. My brother, in particular, is really into nature photography, so he's often coming along with us with his camera."
+            }
+        ]
+    },
+    {
+        "topic": "Routine, Travel, & Associations",
+        "question": "Can you describe your daily routine during a normal week?",
+        "answer": "My normal weekday routine is pretty consistent. I wake up around 7:30 am, get ready, have breakfast, and then head to the university for classes or other obligations. After classes, I usually go to the library to study or work on assignments, and I'll have lunch there. In the evening, I like to spend some time reading for pleasure or going out with friends before heading home. On an average day, I usually get home around 7-8 pm, have dinner, and then spend some time relaxing before bedtime.",
+        "followup": [
+            {
+                "question": "What time do your university classes typically start and end during your weekdays?",
+                "answer": "My university classes usually start around 8:30 am and end around 3 pm on weekdays, with a lunch break in between. I try to schedule my classes in a way that allows me to have some free time in between to catch up on work or have lunch with friends."
+            },
+            {
+                "question": "Do you have a favorite or regular spot on campus where you like to have lunch or study between classes?",
+                "answer": "Yes, I have a few favorite spots on campus for lunch and studying. There's a nice outdoor courtyard where I like to sit and eat lunch when the weather is nice. There's also a really quiet floor in the library with comfortable couches and desks that I like to go to when I need to get some work done. There are also a few cafes on campus where I like to get a coffee and a snack between classes, and they make a great study spot."
+            },
+            {
+                "question": "Can you name the outdoor courtyard, library floor, and cafes you frequent on your university campus by their official names or locations?",
+                "answer": "Sure, the outdoor courtyard I like to sit in is called Victoria College Courtyard, and it's located in the center of campus. The library floor I like to work in is the 4th floor of Scott Library, it's designated as a silent study floor. The cafes I like to go to for coffee and snacks are the Tim Hortons in the Student Centre and the Second Cup in the Ross Building."
+            }
+        ]
+    },
+    {
+        "topic": "Routine, Travel, & Associations",
+        "question": "Have you traveled recently for work or personal reasons? Where and why?",
+        "answer": "I haven't traveled recently for work or personal reasons because I haven't had the chance yet. However, I am planning to travel to Europe in the summer after the end of my academic year to visit a friend of mine who's studying abroad. I've never been to Europe before, so I'm really excited to explore a new place.",
+        "followup": [
+            {
+                "question": "Which country or city in Europe are you planning to visit, and who is the friend you will be visiting?",
+                "answer": "I'm planning to visit a friend who's studying in London, England. We met in university here in Canada and she's going to be living there for a year, so I'm planning to go and visit her for a few weeks after my classes end in June."
+            },
+            {
+                "question": "What is your friend's full name, and where is she studying in London?",
+                "answer": "My friend's name is Sarah Thompson, and she's studying at the London School of Economics and Political Science (LSE). LSE is a world-renowned university in London, and she'll be studying there for a year, starting this September."
+            },
+            {
+                "question": "Have you visited Sarah Thompson in London before, or will this be your first time visiting her while she studies at LSE?",
+                "answer": "This will be the first time I'm visiting her while she's studying at LSE. We've talked about getting together once she settles in, and since I've always wanted to explore Europe, we thought the summer would be a perfect time for me to visit."
+            }
+        ]
+    },
+    {
+        "topic": "Routine, Travel, & Associations",
+        "question": "Are you a member of any organizations, clubs, or online communities?",
+        "answer": "Yes, I am. I'm a member of the Economics Student Association at my university, which organizes events and activities for economics students. I'm also part of a few online communities of people who are into economics and politics, and I regularly participate in discussions there. I'm also part of an online book club, so I get together with some other people every other week to discuss books we've been reading.",
+        "followup": [
+            {
+                "question": "Can you name one or two other members of the Economics Student Association or the online book club you regularly interact with?",
+                "answer": "Sure, one of the members of the Economics Student Association who I interact with often is Jasmine, she's a fellow graduate student in the economics department. We've worked together on a few projects and she's been helpful in helping me stay organized and focused on my work. In the book club, I interact with a woman named Emily, who's really passionate about reading and always has interesting insights into the books we read."
+            },
+            {
+                "question": "What are the academic or professional backgrounds of Jasmine and Emily?",
+                "answer": "Jasmine is pursuing a masters in economics, just like me. She's passionate about economic development and sustainable economics, and her research focuses on the impact of globalization on developing countries. Emily, on the other hand, works as a librarian at the local public library, and she has always been an avid reader and enjoys discussing books in the book club."
+            }
+        ]
+    },
+    {
+        "topic": "Routine, Travel, & Associations",
+        "question": "Who do you usually meet with in your professional and personal life?",
+        "answer": "In my professional life, I usually meet with my professors, thesis supervisor, and fellow graduate students in the economics department. In my personal life, I spend time with my friends and family, especially my siblings and my closest female friend, Jasmine. We usually meet up to catch up, chat, and sometimes go out to dinner or go shopping. I also try to meet new people, whether it's at clubs or events, but I'm usually pretty selective with whom I spend time with.",
+        "followup": [
+            {
+                "question": "What locations or venues do you commonly visit when meeting with your friends, family, or Jasmine for social activities?",
+                "answer": "For social activities with my friends and family, we mostly meet in cafes or restaurants for coffee or lunch, as well as some local parks or plazas for some fresh air. When I meet up with Jasmine, we usually go to a coffee shop or a library to study or just catch up. Sometimes we also go shopping on the weekend."
+            },
+            {
+                "question": "Can you name some of the specific cafes, restaurants, parks, or plazas where you frequently meet with your friends and family?",
+                "answer": "Sure, one of the cafes I like to go to with my friends is a place called The Moonbean Cafe, it's close to campus and has great coffee. I also frequent a burger joint called Holy Chuck Burgers with my siblings, it's got really good burgers and milkshakes. There's a park nearby called Trinity Bellwoods that I like to go to with my family, it's got a nice atmosphere and is great for people watching. A plaza we frequent a lot is the Atrium on Bay, it's attached to the Bay Station and has a bunch of restaurants."
+            },
+            {
+                "question": "How often do you visit The Moonbean Cafe, Holy Chuck Burgers, Trinity Bellwoods Park, and the Atrium on Bay with your friends and family?",
+                "answer": "I usually go to The Moonbean Cafe 2-3 times a week, Holy Chuck Burgers once a month, Trinity Bellwoods twice a month, and the Atrium on Bay every weekend."
+            }
+        ]
+    }
+]
