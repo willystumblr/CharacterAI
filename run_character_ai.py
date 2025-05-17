@@ -63,6 +63,7 @@ if __name__ == "__main__":
                                                                     "[Where to Find]\n"
                                                                     "- F12 > Network > `character.ai` on sidebar > Responses > look up `token`"))
     parser.add_argument("--q_filepath", type=str, required=True, help="JSON file path for questions")
+    parser.add_argument("--prompt_filepath", type=str, default="./interrogator_prompt.txt", help="txt file path for prompt")
     parser.add_argument("--q_max_turn", type=int, default=3, help="Max number of turns for questions")
     parser.add_argument("--result_dir", type=str, default="./results", help="Directory to save results")
     parser.add_argument("--model", type=str, default="gpt-4o-mini", help="Model to use for OpenAI API")
@@ -90,15 +91,15 @@ if __name__ == "__main__":
     
     
     async def run_cai(user_id: str, char_id: str):
+        with open(args.prompt_filepath, "r") as f:
+            interrogator_prompt = f.read()
+        print(interrogator_prompt)
         
         agent = Agent(
             API_KEY=API_KEY,
             model=args.model,
             name="Interrogator",
-            description=(
-                "You are an interrogator who suspects the user is disguising their true identity. You will ask questions to uncover the user's true identity and intentions. "
-                "Move on to the next quesiton by indicating ### NEXT ### if you have asked enough follow-up questions."
-                )
+            description=(interrogator_prompt + "\n\n")
         )
                 
         client = aiocai.Client(user_id)   # ← replace with your token
@@ -122,21 +123,22 @@ if __name__ == "__main__":
                 result['answer'] = message.text
                 print(f"[Chat] {message.name}: {message.text}")
                 
-                for _ in range(args.q_max_turn-1):
-                    text = agent.chat(message.text)
-                    print(f"[Chat] {agent.name}: {text}")
+                if result['topic'] != 'Date':
+                    for _ in range(args.q_max_turn):
+                        text = agent.chat(message.text)
+                        print(f"[Chat] {agent.name}: {text}")
+                        
+                        if "### NEXT ###" in text:
+                            break
 
-                    message = await chat.send_message(char_id, new.chat_id, text)
-                    print(f"[Chat] {message.name}: {message.text}")
-                    
-                    result['followup'].append({
-                        "question": text,
-                        "answer": message.text
-                    })
-                    
-                    if "### NEXT ###" in text:
-                        break
-                
+                        message = await chat.send_message(char_id, new.chat_id, text)
+                        print(f"[Chat] {message.name}: {message.text}")
+                        
+                        result['followup'].append({
+                            "question": text,
+                            "answer": message.text
+                        })
+                        
                 results.append(result)
 
             write_json(f"{args.result_dir}/results_{char_name}.json", results)
