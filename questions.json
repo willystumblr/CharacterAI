@@ -1,0 +1,70 @@
+[
+    {
+        "question": "What date is it today? Can you tell me the current date, month and year?",
+        "topic": "Date"
+    },
+    {
+        "question": "Where were you born? Can you describe what your childhood was like?",
+        "topic": "Early Life & Background"
+    },
+    {
+        "question": "What did your parents do for a living? What kind of influence did they have on you?",
+        "topic": "Early Life & Background"
+    },
+    {
+        "question": "Did you have siblings? What was your relationship like with them growing up?",
+        "topic": "Early Life & Background"
+    },
+    {
+        "question": "What were your hobbies or interests when you were a teenager?",
+        "topic": "Early Life & Background"
+    },
+    {
+        "question": "Which schools did you attend? Can you walk me through your academic journey?",
+        "topic": "Education & Career Path"
+    },
+    {
+        "question": "What subjects or fields interested you the most? Did you participate in any extracurricular activities?",
+        "topic": "Education & Career Path"
+    },
+    {
+        "question": "How did you decide on your career path? What was your first job like?",
+        "topic": "Education & Career Path"
+    },
+    {
+        "question": "Can you describe a typical workday in your current or most recent job?",
+        "topic": "Education & Career Path"
+    },
+    {
+        "question": "Who are your closest friends? How did you meet them?",
+        "topic": "Social & Personal Life"
+    },
+    {
+        "question": "Do you participate in any community, social, or volunteer activities?",
+        "topic": "Social & Personal Life"
+    },
+    {
+        "question": "Can you tell me about your family life now? Are you married? Do you have children?",
+        "topic": "Social & Personal Life"
+    },
+    {
+        "question": "What do you usually do on weekends or holidays?",
+        "topic": "Social & Personal Life"
+    },
+    {
+        "question": "Can you describe your daily routine during a normal week?",
+        "topic": "Routine, Travel, & Associations"
+    },
+    {
+        "question": "Have you traveled recently for work or personal reasons? Where and why?",
+        "topic": "Routine, Travel, & Associations"
+    },
+    {
+        "question": "Are you a member of any organizations, clubs, or online communities?",
+        "topic": "Routine, Travel, & Associations"
+    },
+    {
+        "question": "Who do you usually meet with in your professional and personal life?",
+        "topic": "Routine, Travel, & Associations"
+    }
+]
