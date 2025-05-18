@@ -444,7 +444,8 @@ class WSConnect(ChatV2):
     ):
         cookie = f'HTTP_AUTHORIZATION="Token {self.token}"'
         try:
-            self.ws = await websockets.connect(
+            from websockets.legacy.client import connect as ws_connect
+            self.ws = await ws_connect(
                 'wss://neo.character.ai/ws/',
                 extra_headers={
                     'Cookie': cookie
